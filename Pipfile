@@ -7,10 +7,10 @@ verify_ssl = true
 mypy = "==0.910"
 autopep8 = "==1.6.0"
 pytest = "==6.2.5"
+pytest-mock = "==3.6.1"
 
 [packages]
 pygame = "==2.1.0"
-pytest-mock = "*"
 
 [requires]
-python_version = "3.8"
+python_version = "3.9"
